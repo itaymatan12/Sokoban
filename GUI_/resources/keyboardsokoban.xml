@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<controls>
+	<staff id="1001">
+		<up>W</up>
+		<down>S</down>
+		<right>D</right>
+		<left>A</left>
+	</staff>
+</controls>
